@@ -1,0 +1,1 @@
+print('meowww'*3)
